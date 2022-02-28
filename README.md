@@ -38,6 +38,13 @@ npm start
 
 ## Screenshots
 
+![store items](./public/Screenshot1.png)
+
+![more store items](./public/Screenshot2.png)
+
+![store item 1](./public/Screenshot3.png)
+
+![store item 2](./public/Screenshot4.png)
 
 ## Recommended content
 * [REST API that you can use whenever you need Pseudo-real data for your e-commerce or shopping website without running any server-side code.](https://fakestoreapi.com/)
