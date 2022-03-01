@@ -1,6 +1,6 @@
 # React Redux E-Commerce App
 
-This project includes the react ui as well as Fake Store API for the backend.
+This project includes the React UI and Redux to manage the state, as well as Fake Store API for the backend.
 
 ## Table of contents
 1. [Objectives](#objectives)
